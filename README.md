@@ -11,5 +11,7 @@
 <h2 align="center"></h2>
 
 - 👀 在世界中的一个角落
-- 正在学习`Markdown` `C++` `Python` `Java`
+- 正在学习`C++` `Python` `Java`
+- 主攻 `Python`
+- 被中国式教育束缚的苦逼学生，业余时间少
 - E-Mail: <repent@repent.top>
